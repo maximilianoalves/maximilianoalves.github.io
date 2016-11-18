@@ -71,7 +71,7 @@ p{
 }
 #home
 {
-	background: url(../img/programming.jpg) no-repeat center bottom fixed;
+	background-color: #d6d6d6;
 	background-size: cover;
 	height: 100vh;
 	min-height: 580px;
@@ -80,15 +80,32 @@ p{
 }
 .canvas-overlay
 {
-	background: rgba(0,0,0,.7);
+	background: rgba(0,0,0,0);
 	height: 100%;
 	left: 0;
 	position: absolute;
 	top: 0;
 	width: 100%;
 }
-#aux{
-	background: rgba(0,0,0,.7);
-	width: 80%;
-	margin-left: 10%;
+.title{
+	width: 200px;
+	float: right;
+	text-align: right;
+	font-size: 70px;
+	margin-top: 5%;
+}
+.footer{
+	background-color: #2d2c2c;
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+}
+.primary-title{
+    height: auto;
+    float: right;
+    font-weight: 900;
+    background: url('https://i.ytimg.com/vi/2NZUMtB4Nek/maxresdefault.jpg');
+    background-size: cover;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
