@@ -102,6 +102,7 @@ p{
 }
 .primary-title{
     height: auto;
+    margin-right: 5%;
     float: right;
     font-weight: 900;
     background: url('https://i.ytimg.com/vi/2NZUMtB4Nek/maxresdefault.jpg');
