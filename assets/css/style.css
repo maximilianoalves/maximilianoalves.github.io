@@ -1,0 +1,32 @@
+.row {
+	margin-bottom: 0;
+}
+
+.inicial {
+	background-color: #f5f5f5;
+}
+.sobre {
+	background-color: #153B7F;
+}
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 64px;
+	font-weight: 500;
+}
+.title-sobre {
+	font-size: 144px;
+	font-weight: 700;
+}
+.col-sobre {
+	color: #fff;
+}
+.col-home {
+	margin-top: 10%;
+}
+.arrow-down-home {
+	margin-top: 10%;
+	font-size: 50px;
+}
+.img-custom {
+	position: relative;
+}
